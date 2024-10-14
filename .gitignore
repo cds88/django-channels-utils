@@ -1,0 +1,5 @@
+build/
+dist/
+django_channels_utils.egg-info
+testdisk.log
+.env
